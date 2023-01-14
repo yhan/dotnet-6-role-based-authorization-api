@@ -11,3 +11,7 @@ Documentación en español en https://jasonwatmore.es/post/2022/02/18/net-6-tuto
 Allow only authroized user to access specific API endpoint, according to his role, it will be allowed or not allowed.
 
 # How does this work ?
+
+
+# See also
+https://github.com/yhan/AuthenticationandAuthorization
